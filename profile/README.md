@@ -11,7 +11,7 @@ ___
 ## Welcome to the Frappé Development team
 We are a group of proficient, passionate and perspicacious developers putting in lots of time and commitment to refine players' gameplay experience in Frappé, accomplishing a long-lasting positive impression on our players.
 
-We are the developers of Frappé Cafe –– the most iconic social-oriented game in the metaverse. Players partake in the game by roleplaying either as a customer ordering coffees and socializing with friengds and other fellow players or as a barista serving coffees and more.
+We are the developers of Frappé Cafe –– the most iconic social-oriented game in the metaverse. Players partake in the game by roleplaying either as a customer ordering coffees and socializing with friends and other fellow players or as a barista serving coffees and more.
 
 ## We :heart: Open Source
 
