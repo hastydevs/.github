@@ -8,11 +8,5 @@
 
 ___
 
-## Welcome to the Frappé Development team
-We are a group of proficient, passionate and perspicacious developers putting in lots of time and commitment to refine players' gameplay experience in Frappé, accomplishing a long-lasting positive impression on our players.
-
-We are the developers of Frappé Cafe –– the most iconic social-oriented game in the metaverse. Players partake in the game by roleplaying either as a customer ordering coffees and socializing with friends and other fellow players or as a barista serving coffees and more.
-
-## We :heart: Open Source
-
-We show respect to the Roblox open source community and contribute to it with libraries like [FusionRouter](https://github.com/frappedevs/FusionRouter), [Commander](https://github.com/7kayoh/commander), and a lot more.
+## Welcome!
+We are the Frappé Development team, we are a group of proficient and passionate developers who love to make games and softwares. We also love contributing to the open source community. Soon you will see more contributions made by us to the community with new libraries or contributions to another library.
